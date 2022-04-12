@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\bin\Debug\Exercicio03_Metodo.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\bin\Debug\Exercicio03_Metodo.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\bin\Debug\Exercicio03_Metodo.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\obj\Debug\Exercicio03_Metodo.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\obj\Debug\Exercicio03_Metodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\obj\Debug\Exercicio03_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\obj\Debug\Exercicio03_Metodo.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio03_Metodo\Exercicio03_Metodo\obj\Debug\Exercicio03_Metodo.pdb

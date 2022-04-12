@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\bin\Debug\Exercicio02_Classes.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\bin\Debug\Exercicio02_Classes.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\bin\Debug\Exercicio02_Classes.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\obj\Debug\Exercicio02_Classes.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\obj\Debug\Exercicio02_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\obj\Debug\Exercicio02_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\obj\Debug\Exercicio02_Classes.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio02_Classes\Exercicio02_Classes\obj\Debug\Exercicio02_Classes.pdb

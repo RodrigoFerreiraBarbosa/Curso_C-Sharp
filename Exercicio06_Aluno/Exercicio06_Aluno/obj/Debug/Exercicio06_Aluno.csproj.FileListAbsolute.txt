@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\bin\Debug\Exercicio06_Aluno.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\bin\Debug\Exercicio06_Aluno.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\bin\Debug\Exercicio06_Aluno.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\obj\Debug\Exercicio06_Aluno.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\obj\Debug\Exercicio06_Aluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\obj\Debug\Exercicio06_Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\obj\Debug\Exercicio06_Aluno.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio06_Aluno\Exercicio06_Aluno\obj\Debug\Exercicio06_Aluno.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerciocio04_Retângulo", "Exerciocio04_Retângulo\Exerciocio04_Retângulo.csproj", "{9F4197C5-6370-4DCD-846B-AEBB2E17750A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4197C5-6370-4DCD-846B-AEBB2E17750A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4197C5-6370-4DCD-846B-AEBB2E17750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4197C5-6370-4DCD-846B-AEBB2E17750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4197C5-6370-4DCD-846B-AEBB2E17750A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04AC5E8-1D2E-4C50-B085-411ED1B28780}
+	EndGlobalSection
+EndGlobal
