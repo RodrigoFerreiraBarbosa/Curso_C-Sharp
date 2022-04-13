@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\bin\Debug\Exercicio07_MembrosEstaticos.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\bin\Debug\Exercicio07_MembrosEstaticos.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\bin\Debug\Exercicio07_MembrosEstaticos.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\obj\Debug\Exercicio07_MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\obj\Debug\Exercicio07_MembrosEstaticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\obj\Debug\Exercicio07_MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\obj\Debug\Exercicio07_MembrosEstaticos.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio07_MembrosEstaticos\Exercicio07_MembrosEstaticos\obj\Debug\Exercicio07_MembrosEstaticos.pdb
