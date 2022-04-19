@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\bin\Debug\Exercicio10_Encapsulamento.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\bin\Debug\Exercicio10_Encapsulamento.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\bin\Debug\Exercicio10_Encapsulamento.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\obj\Debug\Exercicio10_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\obj\Debug\Exercicio10_Encapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\obj\Debug\Exercicio10_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\obj\Debug\Exercicio10_Encapsulamento.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio10_Encapsulamento\Exercicio10_Encapsulamento\obj\Debug\Exercicio10_Encapsulamento.pdb

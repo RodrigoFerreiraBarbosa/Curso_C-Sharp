@@ -1,0 +1,8 @@
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\bin\Debug\Exercicio09_Construtores.exe.config
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\bin\Debug\Exercicio09_Construtores.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\bin\Debug\Exercicio09_Construtores.pdb
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\obj\Debug\Exercicio09_Construtores.csproj.AssemblyReference.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\obj\Debug\Exercicio09_Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\obj\Debug\Exercicio09_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\obj\Debug\Exercicio09_Construtores.exe
+C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio09_Construtores\Exercicio09_Construtores\obj\Debug\Exercicio09_Construtores.pdb
