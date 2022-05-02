@@ -1,8 +1,0 @@
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\bin\Debug\Exercicio08_Dolar.exe.config
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\bin\Debug\Exercicio08_Dolar.exe
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\bin\Debug\Exercicio08_Dolar.pdb
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\obj\Debug\Exercicio08_Dolar.csproj.AssemblyReference.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\obj\Debug\Exercicio08_Dolar.csproj.SuggestedBindingRedirects.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\obj\Debug\Exercicio08_Dolar.csproj.CoreCompileInputs.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\obj\Debug\Exercicio08_Dolar.exe
-C:\Users\Fulascado\Desktop\Cursos\C#\Exercicio08_Dolar\Exercicio08_Dolar\obj\Debug\Exercicio08_Dolar.pdb

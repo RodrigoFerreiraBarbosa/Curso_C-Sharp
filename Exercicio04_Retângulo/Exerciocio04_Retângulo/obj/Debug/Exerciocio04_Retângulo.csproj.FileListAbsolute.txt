@@ -1,8 +1,0 @@
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\bin\Debug\Exerciocio04_Retângulo.exe.config
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\bin\Debug\Exerciocio04_Retângulo.exe
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\bin\Debug\Exerciocio04_Retângulo.pdb
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\obj\Debug\Exerciocio04_Retângulo.csproj.AssemblyReference.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\obj\Debug\Exerciocio04_Retângulo.csproj.SuggestedBindingRedirects.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\obj\Debug\Exerciocio04_Retângulo.csproj.CoreCompileInputs.cache
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\obj\Debug\Exerciocio04_Retângulo.exe
-C:\Users\Fulascado\Desktop\Cursos\C#\Exerciocio04_Retângulo\Exerciocio04_Retângulo\obj\Debug\Exerciocio04_Retângulo.pdb
